@@ -1,4 +1,4 @@
-- 👋 I'm a DevZ Nguyen
+- 👋 I'm a Devz Nguyen
 - ☘ I am a student from Vietnam
 <!---
 kids-dev/kids-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
